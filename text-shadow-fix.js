@@ -357,4 +357,4 @@ function updateTextShadowUI(e) {
     } catch (error) {
         console.error("Erro ao atualizar UI de sombra e alinhamento:", error);
     }
-}
+} 

@@ -460,4 +460,4 @@ function updateShapeMenu(shapeObj) {
     } catch (error) {
         console.error("Erro ao atualizar menu de forma:", error);
     }
-}
+} 
